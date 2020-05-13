@@ -1,0 +1,29 @@
+{
+  "name": "grunt-zyz",
+  "version": "1.2.2",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-concurrent": "^3.0.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-nodemon": "^0.4.2",
+    "grunt-text-replace": "^0.4.0"
+  },
+  "description": "canvas擦除组件，支持手势操作，丰富的参数配置。",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "grunt，swiper"
+  ],
+  "author": "zyz",
+  "license": "ISC"
+}
