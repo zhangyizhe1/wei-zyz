@@ -1,0 +1,7 @@
+{
+  "curly": true,
+  "eqeqeq": true,
+  "boss": false,
+  "eqnull": true,
+  "expr":true
+}
